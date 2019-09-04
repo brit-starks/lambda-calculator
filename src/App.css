@@ -1,3 +1,17 @@
-html {
+/* html {
   background-color: rebeccapurple;
+} */
+
+.number-container {
+  border: 1px solid black;
+  max-width: 12rem;
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.number-btns {
+  color: red;
+  background-color: blue;
+  height: 4rem;
+  width: 4rem;
 }
